@@ -49,6 +49,7 @@
 // C:\Program Files (x86)\Arduino\hardware\arduino\avr\libraries\SPI\src\SPI.cpp
 // C:\Program Files (x86)\Arduino\hardware\arduino\avr\libraries\SPI\src\SPI.h
 
+//A CFA10112 micro SD card adapter can be used: https://www.crystalfontz.com/product/cfa10112
 #include <SD.h>
 // C:\Program Files (x86)\Arduino\libraries\SD\src\SD.cpp
 // C:\Program Files (x86)\Arduino\libraries\SD\src\SD.h
